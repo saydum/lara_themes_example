@@ -21,8 +21,8 @@ INFO Server running on [http://127.0.0.1:8000]
 
 # Результат
 
-|                                                     |                                                     |
-|-----------------------------------------------------|-----------------------------------------------------|
-| ![](static/Screenshot from 2024-09-30 11-27-13.png) | ![](static/Screenshot from 2024-09-30 11-27-36.png) |
-| ![](static/Screenshot from 2024-09-30 11-27-47.png) | ![](static/Screenshot from 2024-09-30 11-27-57.png) |
+|                          |                          |
+|--------------------------|--------------------------|
+| ![](static/sc_1.png.png) | ![](static/sc_2.png.png) |
+| ![](static/sc_3.png.png) | ![](static/sc_4.png.png) |
 
